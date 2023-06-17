@@ -168,9 +168,12 @@ body {
   margin-bottom: 15px;
 }
 
-.skills__text {
+.skills__list {
   color: var(--secondary-text-color);
-  text-align: justify;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
 }
 
 .experiences {
