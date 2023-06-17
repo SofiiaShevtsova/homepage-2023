@@ -136,7 +136,7 @@ body {
 
 .intro {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
 }
 
 .intro__icon-wrapper {
