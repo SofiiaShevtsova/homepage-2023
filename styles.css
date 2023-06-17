@@ -151,15 +151,17 @@ body {
   fill: var(--text-decoration-color);
 }
 
-.intro_text, .ps_text {
+.intro_text,
+.ps_text {
   color: var(--secondary-text-color);
   text-align: justify;
 }
 
-.intro_text>span, .ps_text>span{
-    display: block;
-    font-size: 24px;
-    text-shadow: 1px 2px var(--text-decoration-color);
+.intro_text > span,
+.ps_text > span {
+  display: block;
+  font-size: 24px;
+  text-shadow: 1px 2px var(--text-decoration-color);
 }
 
 .skills__header {
@@ -270,7 +272,6 @@ body {
   color: var(--secondary-text-color);
 }
 
-.ps-box{
-padding: 0 10%;
-
+.ps-box {
+  padding: 0 10%;
 }
